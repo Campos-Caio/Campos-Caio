@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Campos-Caio
-- 👀 I’m interested in being a Full Stack Dev
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @caioalvescampos2010@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estudante de Engenharia de Software (último período) | Focado em Desenvolvimento Mobile com Flutter e IA com Python | Em busca da minha primeira oportunidade para aplicar e expandir meus conhecimentos.
 
 <!---
 Campos-Caio/Campos-Caio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
